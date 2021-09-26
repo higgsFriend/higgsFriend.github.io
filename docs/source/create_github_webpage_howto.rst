@@ -10,3 +10,7 @@ How to create a webpage in GitHub
 	.. image:: ./assets/html_example.png
 #. Create the 'me.jpg' file and also copy it to the local repo:
 	.. image:: ./assets/filesystem_snapshot.png
+#. Commit your changes to the repo via GitDesktop.  You will need to add comments and click commit (see circled items):
+	.. image:: ./assets/gitdesktop_image.png
+#. Now push them to the repo:
+	.. image:: ./assets/gitdesktop_push_image.png
