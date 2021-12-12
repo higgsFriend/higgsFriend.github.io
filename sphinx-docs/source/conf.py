@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'JB\'s Portfolio'
+project = 'Git with JB'
 copyright = '2021, John Burtenshaw'
 author = 'John Burtenshaw'
 
