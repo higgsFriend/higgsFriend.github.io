@@ -1,4 +1,4 @@
 # higgsFriend.github.io
-Demo repo for the MIT MERN course
+Root repo to demonstrate javascript and misc. projects.
 
-Learning Javascript and the MERN stack.  Who thought it could be so fun:)
+Please see https://higgsfriend.github.io/ for a more interactive experience.
