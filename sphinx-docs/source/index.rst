@@ -21,7 +21,7 @@ safety circuits, troubleshooting of pneumatic, hydraulic, electrical systems.
 
   * My Github user name is higgsfriend
   * My linkedin profile: `<https://www.linkedin.com/in/john-burtenshaw-4b326410/>`_
-  * Feel free to try and contact me on linkedin.
+  * Feel free to try and contact me on linkedin or burtenshaw2j@gmail.com
 
 
 .. toctree::
